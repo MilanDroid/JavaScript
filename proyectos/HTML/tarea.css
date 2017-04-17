@@ -1,0 +1,15 @@
+table{
+border-style: ridge;
+border-width: 1px;
+border-color: gray;
+}
+
+tr:nth-child(odd){
+    background: white;
+    color: gray;
+}
+
+tr:nth-child(even){
+    background: gray;
+    color: black;
+}

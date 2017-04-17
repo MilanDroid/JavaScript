@@ -1,0 +1,42 @@
+/* Estilos CSS */
+
+body {
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    color: royalblue;
+    border-color: aqua 1px;
+}
+
+sub {
+    color: yellowgreen;
+}
+
+ul li {
+    font-size: 12px;
+    color: Green;
+    list-style-type: circle;
+    list-style-position: inside;
+    list-style-image: url("D:/Basner/Pictures/66941.jpeg");
+}
+
+a, td {
+  color:  Brown;
+  font-size:  18px;
+  text-decoration: none;
+}
+
+thead {
+  color: Blue;
+}
+
+table {
+  border-collapse: collapse;
+  width:  50%;
+}
